@@ -1,4 +1,4 @@
-Most of the assignment is done in Orange apart from two tasks:
+Most of the tasks is done in Orange apart from two tasks:
 1. Obtaining skewness and kurtosis values.
 2. Split the dataset into training set and test set using random_state=309
 The two part above is done in python Jupyter notebook: ASS2.ipynb
